@@ -8,7 +8,7 @@ Welcome to the Pygame Runner Game! This is a simple endless runner game where th
 
 ## Features
 
-- Endless runner gameplay
-- Simple controls (**spacebar** to jump)
-- Score tracking
-- Increasing difficulty with time
+- **Endless runner gameplay**
+- **Simple controls** (spacebar to jump)
+- **Score tracking**
+- **Increasing difficulty with time**
